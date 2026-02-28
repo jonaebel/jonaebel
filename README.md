@@ -6,7 +6,7 @@ CS student. I try building things that work.
 - 🏆 Semifinalist @ AWS AI Ideas 2026
 - 🔨 Working on Civiclens — A Civic AI system which should make understanding GOV Doc easier 
 - 📚 First-year CS @ LUH
-(- trying to write my comments in english only)  
+- (trying to write my comments in english only)
 
 ## Stack
 Python · Java · C/C++
