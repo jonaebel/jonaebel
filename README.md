@@ -7,6 +7,10 @@ CS student. I try building things that work.
 - 🔨 Working on Civiclens — A Civic AI system which should make understanding GOV Doc easier 
 - 📚 First-year CS @ LUH
 - (trying to write my comments in english only)
-
+- 
 ## Stack
 Python · Java · C/C++
+
+
+*Commit schedule:* Sundays are my free day
+*(Breaking my own rule for this commit)*
