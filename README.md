@@ -11,3 +11,5 @@ CS student. I try building things that work.
 Python · Java · C/C++
 
 *Commit schedule: Sundays are my free day — breaking my own rule for this commit.*
+
+*(ps: if you like visit my [blog](https://jonaebel.dev) )*
