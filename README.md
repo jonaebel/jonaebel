@@ -3,7 +3,6 @@ CS student. I try building things that work.
 
 ## Currently
 - 🧠 Learning in areas ML & NLP 
-- 🔨 Working on CPIN — sticky notes for your code, attach notes to specific file:line without touching source files
 - 📚 First-year CS @ LUH
 
 ## Stack
