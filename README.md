@@ -2,7 +2,7 @@
 CS student. I try building things that work.
 
 ## Currently
-- 🧠 Learning in areas ML & NLP 
+- 🧠 Learning in areas (Auto)ML & NLP 
 - 📚 First-year CS @ LUH
 
 ## Stack
